@@ -6,9 +6,9 @@ color:
   saturation: 0.8809472117573023
   rhythmicContrast: 0.42663521971553564
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
 name: Victoria Rose
